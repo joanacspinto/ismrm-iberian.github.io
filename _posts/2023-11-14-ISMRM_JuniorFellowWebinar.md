@@ -7,7 +7,6 @@ image: assets/images/webinar_JRFsv2.jpg
 featured: true
 summary: "Join us this Friday for this webinar"
 ---
-
 📅 **Save the Date**
 
 Friday, 17th November 2023
